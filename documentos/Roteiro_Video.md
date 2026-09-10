@@ -7,7 +7,7 @@
 ---
 
 **00:00 – 00:40 | Abertura**
-Apresentar-se pelo nome completo, número de estudante, curso (Licenciatura em Informática) e disciplina (Tecnologias de Base de Dados, docente Daniel Berequeto Gimo). Anunciar o título do trabalho e o objetivo do vídeo: mostrar o processo completo de normalização de 0FN até 4FN.
+Apresentar-se pelo nome completo Joãochicavadojodojo, número de estudante, curso (Licenciatura em Informática) e disciplina (Tecnologias de Base de Dados, docente Daniel Berequeto Gimo). Anunciar o título do trabalho e o objetivo do vídeo: mostrar o processo completo de normalização de 0FN até 4FN.
 
 **00:40 – 01:30 | Contexto do problema**
 Mostrar a tabela `Dados_Não_Normalizados_Funcionários` (0FN) no ecrã. Explicar o cenário: uma empresa moçambicana com 16 funcionários registados numa única folha de cálculo, com dados pessoais, morada, dados profissionais, filhos e telefones.
